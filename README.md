@@ -3,6 +3,8 @@ vpc terraform module
 
 A terraform module to provide a VPC in AWS.
 
+REHOSTED FROM https://github.com/terraformworld/terraform-aws-vpc/ as they removed their terraform 11 compatible versions.
+
 
 Module Input Variables
 ----------------------
