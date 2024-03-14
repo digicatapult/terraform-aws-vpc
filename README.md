@@ -1,6 +1,10 @@
 vpc terraform module
 ===========
 
+## Deprecation Notice
+This application was deprecated on March 14th 2024, there will be no further dependency or security updates.
+---
+
 A terraform module to provide a VPC in AWS.
 
 REHOSTED FROM https://github.com/terraformworld/terraform-aws-vpc/ as they removed their terraform 11 compatible versions.
